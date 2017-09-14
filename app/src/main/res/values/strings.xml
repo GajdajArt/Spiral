@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spiral</string>
+    <string name="display_text_hint">Введите диаметр в мм</string>
+    <string name="display_text_hint_2">Введите угол спирали в градусах</string>
+    <string name="display_text_hint_3">Шаг спирали равен:</string>
+    <string name="formula">(Pi x D) / tan(a)</string>
+    <string name="D">D</string>
+    <string name="a">a</string>
+</resources>
